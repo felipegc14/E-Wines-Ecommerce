@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>E-Wines E-Commerce App</h1>
+  <h1>E-Wines E-Commerce App 🍷</h1>
   <p>:link: Deploy Front: <a href="https://e-wine-ashen.vercel.app/" target="_blank">E-Wines App</a></p>
   <p>:link: Deploy Back: <a href="https://e-winespf.herokuapp.com/" target="_blank">E-Wines App BackEnd</a></p>
   <p>:link: Deploy WebSocket Server: <a href="https://websocketpf.herokuapp.com/" target="_blank">E-Wines WebSocketServer</a></p>
