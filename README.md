@@ -1,8 +1,8 @@
 <div align="center">
   <h1>E-Wines E-Commerce App</h1>
-  <p>:link: Deploy Front: <a href="https://e-wine-ashen.vercel.app/" target="_blank">Henry Dogs App</a></p>
-  <p>:link: Deploy Back: <a href="https://e-winespf.herokuapp.com/" target="_blank">Henry Dogs App BackEnd</a></p>
-  <p>:link: Deploy WebSocket Server: <a href="https://websocketpf.herokuapp.com/" target="_blank">Henry Dogs App WebSocketServer</a></p>
+  <p>:link: Deploy Front: <a href="https://e-wine-ashen.vercel.app/" target="_blank">E-Wines App</a></p>
+  <p>:link: Deploy Back: <a href="https://e-winespf.herokuapp.com/" target="_blank">E-Wines App BackEnd</a></p>
+  <p>:link: Deploy WebSocket Server: <a href="https://websocketpf.herokuapp.com/" target="_blank">E-Wines WebSocketServer</a></p>
   <hr>
 </div>
 
@@ -18,11 +18,13 @@
 <p>:white_check_mark: Autenticación de terceros (Google)</p>
 <p>:white_check_mark: Creación de nuevos productos y publicaciones</p>
 <p>:white_check_mark: Almacenamiento de imágenes en la nube utilizando Cloudinary</p>
+<p>:white_check_mark: Filtros combinados de búsqueda</p>
 <p>:white_check_mark: Carrito de Compra utilizando LocalStorage</p>
 <p>:white_check_mark: Pasarela de Pagos con Stripe y MercadoPago</p>
 <p>:white_check_mark: Favoritos</p>
 <p>:white_check_mark: Chat RealTime entre usuarios y sommeliers utilizando SocketIo y Postgresql para el almacenamiento de los mensajes</p>
 <p>:white_check_mark: Notificaciones Realtime utilizando SocketIo</p>
+<p>:white_check_mark: Notificaciones por mail utilizando NodeMailer</p>
 <p>:white_check_mark: DashBoard de Usuario</p>
 <p>:white_check_mark: Seguimiento de Compras y Ventas</p>
 <p>:white_check_mark: Reseñas en Publicaciones</p>
